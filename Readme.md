@@ -9,7 +9,7 @@
 
 ---
 
-# 🌌 About Me
+# 🌌 **About Me**
 
 ```diff
 + 🚀 AI & Data Science Undergraduate (2023–2027)
