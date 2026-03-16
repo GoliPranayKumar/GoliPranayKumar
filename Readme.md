@@ -126,9 +126,9 @@ class GoPranayKumar:
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=GoliPranayKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03070F&title_color=00C2FF&icon_color=00FF94&text_color=E8F4FF&border_radius=12"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=GoliPranayKumar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=03070F&title_color=00C2FF&icon_color=00FF94&text_color=E8F4FF&border_radius=12"/>
 &nbsp;
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoliPranayKumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=03070F&title_color=00C2FF&text_color=E8F4FF&border_radius=12"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoliPranayKumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=03070F&title_color=00C2FF&text_color=E8F4FF&border_radius=12"/>
 
 </div>
 
@@ -156,6 +156,104 @@ class GoPranayKumar:
 
 ---
 
+## 🎮 GitHub Games & Fun Stats
+
+### 🕹️ Skyline — My GitHub City
+
+> A 3D city built from my GitHub contributions — each building = commit activity per week
+
+<div align="center">
+
+[![GitHub Skyline](https://img.shields.io/badge/🏙️_View_My_GitHub_Skyline_3D_City-00C2FF?style=for-the-badge&logoColor=white)](https://skyline.github.com/GoliPranayKumar/2024)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake Game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake eating my commits 🐍" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+*🐍 A snake eating through all my GitHub contributions*
+
+</div>
+
+---
+
+### 📅 Isometric Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=GoliPranayKumar&theme=tokyonight&hide_border=true&bg_color=03070F&title_color=00C2FF&text_color=E8F4FF&border_radius=12" alt="WakaTime Stats"/>
+
+</div>
+
+---
+
+### 🎲 Random GitHub Stats I'm Proud Of
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 🔥 Longest Streak | Check live above ↑ |
+| 🌟 Total Stars Earned | Growing daily |
+| 📦 Public Repos | 4+ and counting |
+| 💬 Languages Used | Python, Java, JS, C, HTML, CSS |
+| 🎯 LeetCode Target | 500+ problems |
+| 🏫 University | Vignan Institute of Tech & Science |
+| 📍 Location | Hyderabad, India 🇮🇳 |
+| ⏰ Active Since | 2023 |
+
+</div>
+
+---
+
+### ⚡ WakaTime Coding Hours
+
+> *Add WakaTime to VS Code to track your coding time automatically!*
+
+<div align="center">
+
+[![WakaTime](https://img.shields.io/badge/Track_Coding_Time-WakaTime-00C2FF?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@GoliPranayKumar)
+
+</div>
+
+---
+
+### 🎰 GitHub Achievements Unlocked
+
+<div align="center">
+
+![Achievement](https://img.shields.io/badge/🦈_Pull_Shark-Unlocked-00C2FF?style=flat-square&labelColor=03070F)
+![Achievement](https://img.shields.io/badge/⚡_YOLO-Unlocked-00FF94?style=flat-square&labelColor=03070F)
+![Achievement](https://img.shields.io/badge/🌌_Galaxy_Brain-In_Progress-FFA116?style=flat-square&labelColor=03070F)
+![Achievement](https://img.shields.io/badge/🌟_Starstruck-In_Progress-FFA116?style=flat-square&labelColor=03070F)
+![Achievement](https://img.shields.io/badge/❤️_Pair_Extraordinaire-Locked-555?style=flat-square&labelColor=03070F)
+
+> *GitHub awards achievements for specific contributions — keep committing to unlock more!*
+
+</div>
+
+---
+
+### 📊 Coding Time Breakdown (Estimated)
+
+```
+🐍 Python        ████████████░░░░░░░░   55% — AI/ML Projects
+☕ Java           ████████░░░░░░░░░░░░   30% — DSA Practice
+⚛️  JavaScript    ████░░░░░░░░░░░░░░░░   10% — Frontend Work
+🔧 Other          █░░░░░░░░░░░░░░░░░░░    5% — C, Shell, etc.
+```
+
+---
+
 ## 🎯 Current Goals
 
 <div align="center">
@@ -166,20 +264,6 @@ class GoPranayKumar:
 | 🧮 Master **Advanced DSA** (Graphs, DP, Segment Trees) | 🔄 In Progress |
 | 🚀 Build a **production AI SaaS** | 📋 Planned |
 | 🌍 Contribute to **Open Source AI** projects | 📋 Planned |
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 </div>
 
