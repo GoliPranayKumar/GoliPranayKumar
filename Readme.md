@@ -1,4 +1,4 @@
-<div align="center">
+*<div align="center">
 
 <!-- HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a2e,60:003d5c,100:00C2FF&height=250&section=header&text=Goli%20Pranay%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=45&stroke=00C2FF&strokeWidth=2&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DSA%20Enthusiast&descSize=18&descAlignY=68&animation=twinkling" width="100%"/>
@@ -246,4 +246,4 @@ Open Source     ██░░░░░░░░░░  First PRs Coming
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:00FF94,100:000000&height=100&section=footer&animation=twinkling" width="100%"/>
 
-</div>
+</div>**
