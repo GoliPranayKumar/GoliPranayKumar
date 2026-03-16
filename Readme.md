@@ -1,167 +1,243 @@
-<!-- HEADER -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Goli Pranay Kumar</title>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0072ff&height=150&section=header&text=Goli%20Pranay%20Kumar&fontSize=35&fontColor=ffffff"/>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+}
+
+body{
+background:#0f172a;
+color:white;
+line-height:1.6;
+}
+
+header{
+height:100vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+text-align:center;
+background:linear-gradient(120deg,#0ea5e9,#6366f1);
+}
+
+header h1{
+font-size:3rem;
+margin-bottom:10px;
+animation:fadeIn 2s ease-in-out;
+}
+
+header h2{
+font-weight:300;
+animation:fadeIn 3s ease-in-out;
+}
+
+.btn{
+margin-top:20px;
+padding:10px 25px;
+background:white;
+color:#0f172a;
+border-radius:30px;
+text-decoration:none;
+font-weight:600;
+transition:0.3s;
+}
+
+.btn:hover{
+transform:scale(1.1);
+}
+
+section{
+padding:70px 10%;
+}
+
+.section-title{
+font-size:2rem;
+margin-bottom:30px;
+text-align:center;
+}
+
+.about{
+text-align:center;
+max-width:700px;
+margin:auto;
+}
+
+.skills{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+gap:20px;
+}
+
+.skill{
+background:#1e293b;
+padding:20px;
+border-radius:10px;
+text-align:center;
+transition:0.3s;
+}
+
+.skill:hover{
+transform:translateY(-10px);
+background:#334155;
+}
+
+.projects{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:25px;
+}
+
+.project-card{
+background:#1e293b;
+padding:25px;
+border-radius:12px;
+transition:0.3s;
+position:relative;
+overflow:hidden;
+}
+
+.project-card:hover{
+transform:translateY(-10px);
+}
+
+.project-card h3{
+margin-bottom:10px;
+}
+
+.project-card a{
+display:inline-block;
+margin-top:10px;
+color:#38bdf8;
+text-decoration:none;
+}
+
+footer{
+text-align:center;
+padding:30px;
+background:#020617;
+margin-top:50px;
+}
+
+.social{
+margin-top:15px;
+}
+
+.social a{
+margin:0 10px;
+color:white;
+font-size:20px;
+text-decoration:none;
+}
+
+@keyframes fadeIn{
+from{opacity:0; transform:translateY(20px);}
+to{opacity:1; transform:translateY(0);}
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>👋 Goli Pranay Kumar</h1>
+<h2>AI & Data Science Student | Aspiring AI Engineer</h2>
+<a href="#projects" class="btn">View My Work</a>
+</header>
+
+<section>
+<h2 class="section-title">About Me</h2>
+<div class="about">
+<p>
+B.Tech student in Artificial Intelligence and Data Science at Vignan Institute of Technology and Science.
+Interested in AI, Data Structures, and building real-world software systems.
 </p>
+</div>
+</section>
 
-<h3 align="center">AI & Data Science Student | Aspiring AI Engineer | DSA Enthusiast</h3>
+<section>
+<h2 class="section-title">Tech Stack</h2>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Data+Structures+%26+Algorithms;Python+%7C+Java+Developer;Building+AI+Projects+🚀"/>
+<div class="skills">
+
+<div class="skill">Python</div>
+<div class="skill">Java</div>
+<div class="skill">C</div>
+<div class="skill">JavaScript</div>
+<div class="skill">React</div>
+<div class="skill">Node.js</div>
+<div class="skill">MongoDB</div>
+<div class="skill">MySQL</div>
+
+</div>
+</section>
+
+<section id="projects">
+<h2 class="section-title">Projects</h2>
+
+<div class="projects">
+
+<div class="project-card">
+<h3>MediScannerAI</h3>
+<p>AI powered system that analyzes chest X-rays using deep learning.</p>
+<a href="https://github.com/GoliPranayKumar/MediScannerAi">View Project</a>
+</div>
+
+<div class="project-card">
+<h3>Yuddha Bhumi</h3>
+<p>Strategy battlefield simulation game with tactical gameplay.</p>
+<a href="https://github.com/GoliPranayKumar/YuddhaBhumi">View Project</a>
+</div>
+
+<div class="project-card">
+<h3>Credovia</h3>
+<p>Full stack credibility scoring system built with Next.js and Appwrite.</p>
+<a href="https://github.com/GoliPranayKumar/Credovia">View Project</a>
+</div>
+
+<div class="project-card">
+<h3>Java Data Structures</h3>
+<p>Implementation of stacks, queues, trees and graph algorithms.</p>
+<a href="https://github.com/GoliPranayKumar/DataStructures">View Project</a>
+</div>
+
+</div>
+</section>
+
+<section>
+<h2 class="section-title">Goals</h2>
+
+<div class="about">
+<p>
+Solve 500+ LeetCode problems, build AI-powered SaaS applications,
+and contribute to open source projects.
 </p>
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=GoliPranayKumar&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
-</p>
+</section>
 
----
+<footer>
 
-# 🧑‍💻 About Me
+<p>© 2026 Goli Pranay Kumar</p>
 
-🎓 B.Tech Artificial Intelligence & Data Science  
-🏫 Vignan Institute of Technology and Science *(2023–2027)*  
+<div class="social">
+<a href="https://github.com/GoliPranayKumar">GitHub</a>
+<a href="https://www.linkedin.com/in/golipranaykumar/">LinkedIn</a>
+</div>
 
-💡 Interests
+</footer>
 
-- Artificial Intelligence
-- Data Structures & Algorithms
-- Backend Development
-- Full Stack Applications
-
-🚀 Currently building **AI-powered applications**
-
----
-
-# 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/golipranaykumar/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/golipranaykumar/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/GoliPranayKumar)
-
----
-
-# ⚒️ Tech Stack
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,linux"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
----
-
-# 🚀 Featured Projects
-
-### 🧠 MediScannerAI
-AI system that analyzes **chest X-rays using deep learning**
-
-Tech: Python • TensorFlow • React • OpenCV  
-
-🔗  
-https://github.com/GoliPranayKumar/MediScannerAi
-
----
-
-### ⚔️ Yuddha Bhumi
-Strategy battlefield simulation game
-
-Tech: React • Node.js • Game Logic  
-
-🔗  
-https://github.com/GoliPranayKumar/YuddhaBhumi
-
----
-
-### 📊 Credovia
-Full-stack credibility scoring system
-
-Tech: Next.js • Tailwind • Appwrite  
-
-🔗  
-https://github.com/GoliPranayKumar/Credovia
-
----
-
-### 📚 Data Structures in Java
-
-Clean implementation of major **DSA concepts**
-
-Arrays • Stack • Queue • Trees • Graphs
-
-🔗  
-https://github.com/GoliPranayKumar/DataStructures
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GoliPranayKumar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoliPranayKumar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoliPranayKumar&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GoliPranayKumar&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-✔ Career Essentials in Generative AI – Microsoft + LinkedIn  
-✔ Python for Data Science  
-✔ Data Structures & Algorithms in Java  
-✔ Computer Networks & Internet Security  
-
----
-
-# 🎮 Fun Zone
-
-When I'm not coding:
-
-🎮 Strategy Games  
-🎨 UI Design  
-🎬 Video Editing  
-🤖 Exploring AI Tools
-
----
-
-# 🎯 Goals
-
-- Solve **500+ LeetCode problems**
-- Master **Advanced DSA**
-- Build **AI SaaS products**
-- Contribute to **Open Source**
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00C2FF&height=120&section=footer"/>
-</p>
+</body>
+</html>
