@@ -1,104 +1,221 @@
-## 🚀 Featured Projects
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">👋 Hey, I'm <span style="color:#00C2FF;">Goli Pranay Kumar</span></h1>
+
+<h3 align="center">
+B.Tech AI & Data Science Student | Aspiring AI Engineer | DSA Enthusiast
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Data+Structures+%26+Algorithms;Python+%7C+Java+%7C+C+Developer;Full+Stack+%2B+AI+Projects;Always+Learning+New+Technologies+🚀"/>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=GoliPranayKumar&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
+</p>
 
 ---
 
+# 🧑‍💻 About Me
+
+🎓 **B.Tech Artificial Intelligence & Data Science**  
+🏫 Vignan Institute of Technology and Science *(2023 – 2027)*  
+
+💡 Passionate about
+
+- Artificial Intelligence
+- Data Structures & Algorithms
+- Full Stack Development
+- Building impactful software
+
+🚀 Currently working on **AI + Web Applications**
+
+---
+
+# 🔗 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/golipranaykumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:golipranaykumar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/golipranaykumar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/GoliPranayKumar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ⚒️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js"/>
+</p>
+
+### 🧰 Tools & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,opencv,git,github,vscode,linux"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
 ### 🧠 MediScannerAI – Deep Learning X-Ray Analyzer
 
-![AI](https://img.shields.io/badge/AI-DeepLearning-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-ML-yellow?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DL-orange?style=for-the-badge)
+AI-powered system that detects abnormalities in **Chest X-rays**
 
-AI-powered system that analyzes **chest X-ray images** using deep learning models to detect abnormalities.
+**Tech Stack**
 
-**⚙️ Tech Stack**
+Python • TensorFlow • PyTorch • React • OpenCV
 
-`Python` `TensorFlow` `PyTorch` `DenseNet121` `MobileNetV2` `React` `OpenCV`
-
-**✨ Features**
-
-- Upload X-ray images
-- AI-powered medical analysis
-- Deep learning inference pipeline
-- Prediction visualization
-
-🔗 **Repository**  
+🔗  
 https://github.com/GoliPranayKumar/MediScannerAi
 
 ---
 
-### ⚔️ Yuddha Bhumi – Strategy Battle Simulation Game
+### ⚔️ Yuddha Bhumi – Strategy Battle Game
 
-![Game](https://img.shields.io/badge/Game-Strategy-red?style=for-the-badge)
-![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge)
-![Node](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge)
+Strategy-based battlefield simulation game.
 
-A **strategy battlefield simulation game** where players command armies and compete using tactical decisions.
+**Tech**
 
-**⚙️ Tech Stack**
+React • Node.js • Game Algorithms
 
-`React` `JavaScript` `Node.js` `Game Algorithms`
-
-**✨ Features**
-
-- Turn-based combat system
-- Tactical battle strategy
-- Resource management
-- Enemy AI decision system
-- Interactive battlefield UI
-
-🚀 Built to explore **game design and algorithmic thinking**
-
-🔗 **Repository**  
+🔗  
 https://github.com/GoliPranayKumar/YuddhaBhumi
 
 ---
 
 ### 📊 Credovia – Credibility Score System
 
-![NextJS](https://img.shields.io/badge/Next.js-FullStack-black?style=for-the-badge)
-![Appwrite](https://img.shields.io/badge/Appwrite-Backend-pink?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-UI-blue?style=for-the-badge)
+Full-stack platform that calculates **credibility scores**.
 
-A **full-stack credibility scoring system** that analyzes user activity and calculates a trust score.
+**Tech**
 
-**⚙️ Tech Stack**
+Next.js • TailwindCSS • Appwrite • Framer Motion
 
-`Next.js` `TailwindCSS` `Appwrite` `Framer Motion` `REST APIs`
-
-**✨ Features**
-
-- Authentication system
-- Credibility score algorithm
-- Real-time analytics
-- Modern animated UI
-- Scalable backend
-
-🚀 Inspired by **reputation systems used in modern platforms**
-
-🔗 **Repository**  
+🔗  
 https://github.com/GoliPranayKumar/Credovia
 
 ---
 
 ### 📚 Data Structures in Java
 
-![Java](https://img.shields.io/badge/Java-DSA-red?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-ProblemSolving-blue?style=for-the-badge)
+Implementation of core **DSA concepts**
 
-A collection of **core Data Structures and Algorithms implemented in Java**.
+Arrays • Stack • Queue • Graphs • Trees
 
-**Includes**
-
-- Arrays
-- Stack
-- Queue
-- Deque
-- HashMap
-- Priority Queue
-- Trees
-- Graph Algorithms
-
-🎯 Built for **DSA mastery and coding interviews**
-
-🔗 **Repository**  
+🔗  
 https://github.com/GoliPranayKumar/DataStructures
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GoliPranayKumar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoliPranayKumar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoliPranayKumar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GoliPranayKumar&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GoliPranayKumar&theme=tokyonight&no-frame=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎮 Fun Zone
+
+When I'm not coding I enjoy:
+
+🎮 Strategy Games  
+🎨 UI/UX Design  
+🎬 Video Editing  
+🤖 Exploring AI Tools  
+
+---
+
+# 🎯 Current Goals
+
+- Solve **500+ LeetCode problems**
+- Master **Advanced DSA**
+- Build **AI powered SaaS**
+- Contribute to **Open Source**
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&width=750&lines=Thanks+for+visiting+my+GitHub+profile!;Let's+build+something+awesome+🚀"/>
+
+</p>
