@@ -1,14 +1,92 @@
-*<div align="center">
+<div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a2e,60:003d5c,100:00C2FF&height=250&section=header&text=Goli%20Pranay%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=45&stroke=00C2FF&strokeWidth=2&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DSA%20Enthusiast&descSize=18&descAlignY=68&animation=twinkling" width="100%"/>
+<!-- ██████████████████████████████████████████████████████ -->
+<!--   SELF-CONTAINED SVG BANNER — NEVER BREAKS ON GITHUB  -->
+<!-- ██████████████████████████████████████████████████████ -->
 
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=00C2FF&center=true&vCenter=true&width=700&height=50&lines=🧠+MediScannerAI+%7C+X-Ray+Deep+Learning;⚔️+Yuddha+Bhumi+%7C+Strategy+Battle+Engine;📊+Credovia+%7C+Credibility+Score+Platform;🎯+500%2B+LeetCode+Problems+%7C+DSA+Mastery;🚀+Open+to+Collaborate+%7C+Let%27s+Build!" alt="Typing SVG"/>
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#03070F"/>
+      <stop offset="50%" style="stop-color:#001a2e"/>
+      <stop offset="100%" style="stop-color:#00243f"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00C2FF"/>
+      <stop offset="100%" style="stop-color:#00FF94"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00C2FF;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#00C2FF;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#00FF94;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00FF94;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
-<br/><br/>
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)" rx="12"/>
 
-<!-- QUICK LINKS -->
+  <!-- Grid lines -->
+  <g stroke="#00C2FF" stroke-opacity="0.04" stroke-width="1">
+    <line x1="0" y1="44" x2="900" y2="44"/>
+    <line x1="0" y1="88" x2="900" y2="88"/>
+    <line x1="0" y1="132" x2="900" y2="132"/>
+    <line x1="0" y1="176" x2="900" y2="176"/>
+    <line x1="150" y1="0" x2="150" y2="220"/>
+    <line x1="300" y1="0" x2="300" y2="220"/>
+    <line x1="450" y1="0" x2="450" y2="220"/>
+    <line x1="600" y1="0" x2="600" y2="220"/>
+    <line x1="750" y1="0" x2="750" y2="220"/>
+  </g>
+
+  <!-- Orb glow left -->
+  <circle cx="80" cy="110" r="90" fill="#00C2FF" fill-opacity="0.06" filter="url(#softglow)"/>
+  <!-- Orb glow right -->
+  <circle cx="820" cy="110" r="80" fill="#00FF94" fill-opacity="0.05" filter="url(#softglow)"/>
+
+  <!-- Corner brackets -->
+  <g stroke="#00C2FF" stroke-width="2" fill="none" stroke-opacity="0.6">
+    <polyline points="16,40 16,16 40,16"/>
+    <polyline points="860,16 884,16 884,40"/>
+    <polyline points="16,180 16,204 40,204"/>
+    <polyline points="860,204 884,204 884,180"/>
+  </g>
+
+  <!-- Top label -->
+  <text x="450" y="38" text-anchor="middle" font-family="monospace" font-size="11" fill="#00C2FF" fill-opacity="0.7" letter-spacing="4">B.TECH AI &amp; DATA SCIENCE · VIGNAN INSTITUTE · 2023–2027</text>
+
+  <!-- Main name -->
+  <text x="450" y="115" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="54" font-weight="900" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="-1">Goli Pranay Kumar</text>
+
+  <!-- Divider line -->
+  <line x1="180" y1="132" x2="720" y2="132" stroke="url(#lineGrad)" stroke-width="1.5"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="158" text-anchor="middle" font-family="monospace" font-size="14" fill="#E8F4FF" fill-opacity="0.8" letter-spacing="2">AI ENGINEER  ·  FULL STACK  ·  DSA ENTHUSIAST</text>
+
+  <!-- Bottom status -->
+  <circle cx="322" cy="185" r="4" fill="#00FF94">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="332" y="190" font-family="monospace" font-size="12" fill="#00FF94" fill-opacity="0.9">OPEN TO COLLABORATE</text>
+
+  <text x="578" y="190" text-anchor="end" font-family="monospace" font-size="12" fill="#00C2FF" fill-opacity="0.7">📍 Hyderabad, India</text>
+</svg>
+
+<!-- TYPING SVG — reliable service -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=600&color=00C2FF&center=true&vCenter=true&width=700&height=45&lines=🧠+MediScannerAI+%7C+X-Ray+Deep+Learning;⚔️+Yuddha+Bhumi+%7C+Strategy+Battle+Engine;📊+Credovia+%7C+Credibility+Score+Platform;🎯+500%2B+LeetCode+%7C+DSA+Mastery;🚀+Open+to+Collaborate+%7C+Let%27s+Build!" alt="Typing SVG"/>
+
+<br/>
+
+<!-- BADGES -->
 <a href="https://www.linkedin.com/in/golipranaykumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
 &nbsp;
 <a href="https://leetcode.com/u/golipranaykumar/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
@@ -21,11 +99,9 @@
 
 </div>
 
-<br/>
-
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=GoliPranayKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00FF94&text_color=c9d1d9&border_radius=10"/>
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=GoliPranayKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00FF94&text_color=c9d1d9&border_radius=10"/>
 
 ### 🧑‍💻 `whoami`
 
@@ -101,7 +177,7 @@ open_to:    Collaborations & Internships ✅
 ### 🧠 MediScannerAI
 > **Deep Learning X-Ray Analyzer**
 
-AI system detecting abnormalities in Chest X-rays using convolutional neural networks. Combines medical imaging preprocessing with a React dashboard for results.
+AI system detecting abnormalities in Chest X-rays using convolutional neural networks. Combines medical imaging preprocessing with a React dashboard.
 
 ```
 X-Ray → OpenCV Preprocess → CNN Model
@@ -143,7 +219,7 @@ Player Input → Game Engine → AI Logic
 ### 📊 Credovia
 > **Credibility Score Platform**
 
-Full-stack platform with real-time credibility calculations, smooth Framer Motion animations, and Appwrite backend.
+Full-stack platform with real-time credibility calculations, smooth animations, and Appwrite backend.
 
 ```
 User Data → Score Engine → Dashboard
@@ -236,14 +312,24 @@ Open Source     ██░░░░░░░░░░  First PRs Coming
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+<!-- SELF-CONTAINED SVG FOOTER — NEVER BREAKS -->
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#03070F"/>
+      <stop offset="50%" style="stop-color:#001a2e"/>
+      <stop offset="100%" style="stop-color:#03070F"/>
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00C2FF;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#00FF94;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00C2FF;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" fill="url(#footerBg)" rx="10"/>
+  <line x1="0" y1="2" x2="900" y2="2" stroke="url(#footerLine)" stroke-width="2"/>
+  <text x="450" y="38" text-anchor="middle" font-family="monospace" font-size="13" fill="#00C2FF" fill-opacity="0.9" letter-spacing="1">✨ Thanks for visiting — Let's build something awesome together!</text>
+  <text x="450" y="62" text-anchor="middle" font-family="monospace" font-size="11" fill="#E8F4FF" fill-opacity="0.4" letter-spacing="2">🎮 STRATEGY GAMES · 🎨 UI/UX · 🎬 VIDEO EDITING · 🤖 AI TOOLS</text>
+</svg>
 
-<br/>
-
-**🎮 Strategy Games &nbsp;&nbsp;|&nbsp;&nbsp; 🎨 UI/UX Design &nbsp;&nbsp;|&nbsp;&nbsp; 🎬 Video Editing &nbsp;&nbsp;|&nbsp;&nbsp; 🤖 Exploring AI**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:00FF94,100:000000&height=100&section=footer&animation=twinkling" width="100%"/>
-
-</div>**
+</div>
