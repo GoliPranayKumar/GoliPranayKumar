@@ -1,138 +1,135 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00C2FF;">Goli Pranay Kumar</span></h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech AI & Data Science Student | Aspiring AI Engineer | DSA Enthusiast
+<h1 style="color:#00C2FF;font-size:40px;">
+👋 Hey, I'm Goli Pranay Kumar
+</h1>
+
+<h3>
+AI & Data Science Student | Aspiring AI Engineer | DSA Enthusiast
 </h3>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Data+Structures+%26+Algorithms;Python+%7C+Java+Developer;Building+AI+Projects+🚀" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Data+Structures+%26+Algorithms;Python+%7C+Java+%7C+C+Developer;Full+Stack+%2B+AI+Projects;Always+Learning+New+Technologies+🚀"/>
+</div>
 
-</p>
+<hr>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=GoliPranayKumar&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
-</p>
+<!-- ================= ABOUT ================= -->
 
----
+<h2>🧑‍💻 About Me</h2>
 
-# 🧑‍💻 About Me
+<ul>
+<li>🎓 B.Tech Artificial Intelligence & Data Science</li>
+<li>🏫 Vignan Institute of Technology and Science (2023–2027)</li>
+<li>💡 Interested in AI, System Design, DSA</li>
+<li>🚀 Building AI & Full Stack Projects</li>
+</ul>
 
-🎓 **B.Tech Artificial Intelligence & Data Science**  
-🏫 Vignan Institute of Technology and Science *(2023 – 2027)*  
+<hr>
 
-💡 Passionate about
+<!-- ================= TECH STACK ================= -->
 
-- Artificial Intelligence
-- Data Structures & Algorithms
-- Full Stack Development
-- Building impactful software
-
-🚀 Currently working on **AI + Web Applications**
-
----
-
-# 🔗 Connect With Me
+<h2>⚒️ Tech Stack</h2>
 
 <p>
-
-<a href="https://www.linkedin.com/in/golipranaykumar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:golipranaykumar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/golipranaykumar/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://github.com/GoliPranayKumar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css"/>
 </p>
-
----
-
-# ⚒️ Tech Stack
-
-### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,opencv,git,github,linux,vscode"/>
 </p>
-
-### 🧰 Tools & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,opencv,git,github,vscode,linux"/>
-</p>
-
-### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
----
+<hr>
 
-# 🚀 Featured Projects
+<!-- ================= PROJECT CARDS ================= -->
 
-### 🧠 MediScannerAI – Deep Learning X-Ray Analyzer
+<h2>🚀 Featured Projects</h2>
 
-AI-powered system that detects abnormalities in **Chest X-rays**
+<table>
+<tr>
 
-**Tech Stack**
+<td width="50%" style="border:1px solid #00C2FF;border-radius:10px;padding:15px;">
 
-Python • TensorFlow • PyTorch • React • OpenCV
+<h3>🧠 MediScannerAI</h3>
 
-🔗  
-https://github.com/GoliPranayKumar/MediScannerAi
+AI powered system that analyzes chest X-rays using deep learning.
 
----
+<b>Tech:</b> Python • TensorFlow • React • OpenCV
 
-### ⚔️ Yuddha Bhumi – Strategy Battle Game
+<br><br>
 
-Strategy-based battlefield simulation game.
+<a href="https://github.com/GoliPranayKumar/MediScannerAi">
+View Repository
+</a>
 
-**Tech**
+</td>
 
-React • Node.js • Game Algorithms
+<td width="50%" style="border:1px solid #00C2FF;border-radius:10px;padding:15px;">
 
-🔗  
-https://github.com/GoliPranayKumar/YuddhaBhumi
+<h3>⚔️ Yuddha Bhumi</h3>
 
----
+Strategy battlefield simulation game with AI driven gameplay.
 
-### 📊 Credovia – Credibility Score System
+<b>Tech:</b> React • Node.js • Game Algorithms
 
-Full-stack platform that calculates **credibility scores**.
+<br><br>
 
-**Tech**
+<a href="https://github.com/GoliPranayKumar/YuddhaBhumi">
+View Repository
+</a>
 
-Next.js • TailwindCSS • Appwrite • Framer Motion
+</td>
 
-🔗  
-https://github.com/GoliPranayKumar/Credovia
+</tr>
 
----
+<tr>
 
-### 📚 Data Structures in Java
+<td width="50%" style="border:1px solid #00C2FF;border-radius:10px;padding:15px;">
 
-Implementation of core **DSA concepts**
+<h3>📊 Credovia</h3>
 
-Arrays • Stack • Queue • Graphs • Trees
+Credibility scoring system based on online activity.
 
-🔗  
-https://github.com/GoliPranayKumar/DataStructures
+<b>Tech:</b> Next.js • TailwindCSS • Appwrite
 
----
+<br><br>
 
-# 📊 GitHub Stats
+<a href="https://github.com/GoliPranayKumar/Credovia">
+View Repository
+</a>
+
+</td>
+
+<td width="50%" style="border:1px solid #00C2FF;border-radius:10px;padding:15px;">
+
+<h3>📚 Data Structures</h3>
+
+Java implementations of major DSA concepts.
+
+<b>Topics:</b> Stack • Queue • Graph • Trees
+
+<br><br>
+
+<a href="https://github.com/GoliPranayKumar/DataStructures">
+View Repository
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+<!-- ================= STATS ================= -->
+
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
 
@@ -142,80 +139,29 @@ https://github.com/GoliPranayKumar/DataStructures
 
 </p>
 
----
+<hr>
 
-# 🔥 GitHub Streak
+<h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoliPranayKumar&theme=tokyonight"/>
-
 </p>
 
----
+<hr>
 
-# 📈 Contribution Graph
+<h2>🎮 Fun Zone</h2>
 
-<p align="center">
+<ul>
+<li>🎮 Strategy Games</li>
+<li>🎨 UI / UX Design</li>
+<li>🎬 Video Editing</li>
+<li>🤖 Exploring AI Tools</li>
+</ul>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GoliPranayKumar&theme=tokyo-night"/>
+<hr>
 
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome+🚀"/>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GoliPranayKumar&theme=tokyonight&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 💡 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎮 Fun Zone
-
-When I'm not coding I enjoy:
-
-🎮 Strategy Games  
-🎨 UI/UX Design  
-🎬 Video Editing  
-🤖 Exploring AI Tools  
-
----
-
-# 🎯 Current Goals
-
-- Solve **500+ LeetCode problems**
-- Master **Advanced DSA**
-- Build **AI powered SaaS**
-- Contribute to **Open Source**
-
----
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&width=750&lines=Thanks+for+visiting+my+GitHub+profile!;Let's+build+something+awesome+🚀"/>
-
-</p>
+</div>
