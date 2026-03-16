@@ -1,80 +1,94 @@
 ## 🚀 Featured Projects
 
+---
+
 ### 🧠 MediScannerAI – Deep Learning X-Ray Analyzer
-A full-stack AI web application that analyzes chest X-ray images using deep learning models to detect abnormalities.
 
-**Tech Stack**
-- Python
-- TensorFlow / PyTorch
-- DenseNet121
-- MobileNetV2
-- React
-- OpenCV
+![AI](https://img.shields.io/badge/AI-DeepLearning-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-ML-yellow?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DL-orange?style=for-the-badge)
 
-**Features**
-- Upload chest X-ray images
-- AI-powered disease detection
-- Deep learning inference
-- Visualization of predictions
+AI-powered system that analyzes **chest X-ray images** using deep learning models to detect abnormalities.
 
-🔗 **Repository:**  
+**⚙️ Tech Stack**
+
+`Python` `TensorFlow` `PyTorch` `DenseNet121` `MobileNetV2` `React` `OpenCV`
+
+**✨ Features**
+
+- Upload X-ray images
+- AI-powered medical analysis
+- Deep learning inference pipeline
+- Prediction visualization
+
+🔗 **Repository**  
 https://github.com/GoliPranayKumar/MediScannerAi
-
 
 ---
 
 ### ⚔️ Yuddha Bhumi – Strategy Battle Simulation Game
-A strategy-based battlefield simulation game where players control armies, manage resources, and compete using tactical decision-making.
 
-**Tech Stack**
-- JavaScript
-- React
-- Node.js
+![Game](https://img.shields.io/badge/Game-Strategy-red?style=for-the-badge)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge)
+![Node](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge)
 
-**Features**
-- Turn-based battle mechanics
-- Strategy-driven gameplay
-- Resource & troop management
-- Enemy AI logic
+A **strategy battlefield simulation game** where players command armies and compete using tactical decisions.
+
+**⚙️ Tech Stack**
+
+`React` `JavaScript` `Node.js` `Game Algorithms`
+
+**✨ Features**
+
+- Turn-based combat system
+- Tactical battle strategy
+- Resource management
+- Enemy AI decision system
 - Interactive battlefield UI
 
-🚀 Built to explore **game design and algorithmic strategy systems**
+🚀 Built to explore **game design and algorithmic thinking**
 
-🔗 **Repository:**  
+🔗 **Repository**  
 https://github.com/GoliPranayKumar/YuddhaBhumi
-
 
 ---
 
 ### 📊 Credovia – Credibility Score System
-A modern full-stack platform that calculates and visualizes a **credibility score based on a user’s online presence and activity.**
 
-**Tech Stack**
-- Next.js
-- Tailwind CSS
-- Appwrite
-- Framer Motion
-- REST APIs
+![NextJS](https://img.shields.io/badge/Next.js-FullStack-black?style=for-the-badge)
+![Appwrite](https://img.shields.io/badge/Appwrite-Backend-pink?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-UI-blue?style=for-the-badge)
 
-**Features**
+A **full-stack credibility scoring system** that analyzes user activity and calculates a trust score.
+
+**⚙️ Tech Stack**
+
+`Next.js` `TailwindCSS` `Appwrite` `Framer Motion` `REST APIs`
+
+**✨ Features**
+
 - Authentication system
 - Credibility score algorithm
-- Real-time analytics dashboard
-- Animated UI components
-- Backend powered by Appwrite
+- Real-time analytics
+- Modern animated UI
+- Scalable backend
 
-🚀 Inspired by **reputation scoring systems used by modern platforms**
+🚀 Inspired by **reputation systems used in modern platforms**
 
-🔗 **Repository:**  
+🔗 **Repository**  
 https://github.com/GoliPranayKumar/Credovia
-
 
 ---
 
 ### 📚 Data Structures in Java
-A collection of clean implementations of core **Data Structures & Algorithms using Java**.
+
+![Java](https://img.shields.io/badge/Java-DSA-red?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-ProblemSolving-blue?style=for-the-badge)
+
+A collection of **core Data Structures and Algorithms implemented in Java**.
 
 **Includes**
+
 - Arrays
 - Stack
 - Queue
@@ -84,7 +98,7 @@ A collection of clean implementations of core **Data Structures & Algorithms usi
 - Trees
 - Graph Algorithms
 
-🎯 Built for **strengthening problem solving and algorithmic thinking**
+🎯 Built for **DSA mastery and coding interviews**
 
-🔗 **Repository:**  
+🔗 **Repository**  
 https://github.com/GoliPranayKumar/DataStructures
