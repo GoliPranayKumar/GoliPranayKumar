@@ -1,296 +1,249 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03070F,50:00C2FF,100:00FF94&height=200&section=header&text=Goli%20Pranay%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a2e,60:003d5c,100:00C2FF&height=250&section=header&text=Goli%20Pranay%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=45&stroke=00C2FF&strokeWidth=2&desc=AI%20%26%20Data%20Science%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DSA%20Enthusiast&descSize=18&descAlignY=68&animation=twinkling" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+%7C+2023–2027;Deep+Learning+%26+Computer+Vision;Full+Stack+%2B+AI+Applications;Data+Structures+%26+Algorithms;Always+Building+Something+🚀" alt="Typing SVG"/>
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=00C2FF&center=true&vCenter=true&width=700&height=50&lines=🧠+MediScannerAI+%7C+X-Ray+Deep+Learning;⚔️+Yuddha+Bhumi+%7C+Strategy+Battle+Engine;📊+Credovia+%7C+Credibility+Score+Platform;🎯+500%2B+LeetCode+Problems+%7C+DSA+Mastery;🚀+Open+to+Collaborate+%7C+Let%27s+Build!" alt="Typing SVG"/>
+
+<br/><br/>
+
+<!-- QUICK LINKS -->
+<a href="https://www.linkedin.com/in/golipranaykumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/golipranaykumar/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+&nbsp;
+<a href="mailto:golipranaykumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=GoliPranayKumar&style=flat-square&color=00C2FF&label=profile+views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/GoliPranayKumar?style=flat-square&color=00FF94&label=followers"/>
+
+</div>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=GoliPranayKumar&label=Profile+Views&color=00C2FF&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/GoliPranayKumar?label=Followers&style=for-the-badge&color=00C2FF&labelColor=0D1117" alt="Followers"/>
-
-</div>
-
 ---
 
-## 🧑‍💻 About Me
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=GoliPranayKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00FF94&text_color=c9d1d9&border_radius=10"/>
 
-```python
-class GoPranayKumar:
-    name       = "Goli Pranay Kumar"
-    role       = "AI & Data Science Student"
-    university = "Vignan Institute of Technology and Science"
-    batch      = "2023 – 2027"
-    location   = "Hyderabad, India 🇮🇳"
+### 🧑‍💻 `whoami`
 
-    interests  = [
-        "Artificial Intelligence",
-        "Deep Learning & Computer Vision",
-        "Data Structures & Algorithms",
-        "Full Stack Development",
-        "Open Source"
-    ]
+```yaml
+name:       Goli Pranay Kumar
+role:       AI & Data Science Student
+college:    Vignan Institute of Technology & Science
+batch:      2023 – 2027
+location:   Hyderabad, India 🇮🇳
 
-    current    = "Building AI + Web Applications 🚀"
-    fun_fact   = "I debug with console.log and I'm not ashamed 😄"
+passions:
+  - Artificial Intelligence & Deep Learning
+  - Data Structures & Algorithms
+  - Full Stack Web Development
+  - Building things that matter
+
+currently:  Shipping AI + Web Applications 🚀
+open_to:    Collaborations & Internships ✅
 ```
 
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Goli_Pranay_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/golipranaykumar/)
-[![Gmail](https://img.shields.io/badge/Gmail-golipranaykumar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golipranaykumar@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-golipranaykumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/golipranaykumar/)
-[![GitHub](https://img.shields.io/badge/GitHub-GoliPranayKumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GoliPranayKumar)
-
-</div>
+<br clear="right"/>
 
 ---
 
-## ⚒️ Tech Stack
+## ⚡ Tech Arsenal
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**🐍 Languages**
 
-### 🧠 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-★★★★☆-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-★★★☆☆-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-★★★★☆-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### 🧰 Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**🧠 AI / ML**
 
-</div>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-★★★★☆-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-★★★☆☆-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-★★★★☆-27338e?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-★★★★☆-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-★★★☆☆-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**🌐 Web / Tools**
+
+![React](https://img.shields.io/badge/React-★★★★☆-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-★★★☆☆-white?style=flat-square&logo=nextdotjs&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-★★★☆☆-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🧠 **MediScannerAI** | AI-powered Chest X-Ray abnormality detector using Deep Learning | `Python` `TensorFlow` `PyTorch` `React` `OpenCV` | [→ View](https://github.com/GoliPranayKumar/MediScannerAi) |
-| ⚔️ **Yuddha Bhumi** | Strategy-based battlefield simulation game with AI opponents | `React` `Node.js` `Game Algorithms` | [→ View](https://github.com/GoliPranayKumar/YuddhaBhumi) |
-| 📊 **Credovia** | Full-stack credibility score calculation platform | `Next.js` `TailwindCSS` `Appwrite` `Framer Motion` | [→ View](https://github.com/GoliPranayKumar/Credovia) |
-| 📚 **DSA in Java** | Complete Data Structures & Algorithms implementations | `Java` `Arrays` `Trees` `Graphs` `DP` | [→ View](https://github.com/GoliPranayKumar/DataStructures) |
+### 🧠 MediScannerAI
+> **Deep Learning X-Ray Analyzer**
 
-</div>
-
-### 🧠 MediScannerAI — Flagship Project
-
-> AI-powered medical imaging system that analyzes **Chest X-rays** to detect abnormalities using state-of-the-art deep learning. Combines computer vision with clinical-grade accuracy.
+AI system detecting abnormalities in Chest X-rays using convolutional neural networks. Combines medical imaging preprocessing with a React dashboard for results.
 
 ```
-┌─────────────────────────────────────────────┐
-│  Input: Chest X-Ray Image                  │
-│         ↓                                  │
-│  OpenCV Preprocessing                      │
-│         ↓                                  │
-│  TensorFlow / PyTorch CNN Model            │
-│         ↓                                  │
-│  Abnormality Detection + Confidence Score  │
-│         ↓                                  │
-│  React Dashboard → Results Visualization  │
-└─────────────────────────────────────────────┘
+X-Ray → OpenCV Preprocess → CNN Model
+      → Abnormality Score → React UI
 ```
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+
+[![View](https://img.shields.io/badge/→_View_Project-00C2FF?style=for-the-badge)](https://github.com/GoliPranayKumar/MediScannerAi)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ Yuddha Bhumi
+> **Strategy Battle Simulation**
+
+Real-time battlefield simulation with complex game state management, AI-driven opponents, and strategic decision trees.
+
+```
+Player Input → Game Engine → AI Logic
+             → Battle State → UI Render
+```
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![View](https://img.shields.io/badge/→_View_Project-00C2FF?style=for-the-badge)](https://github.com/GoliPranayKumar/YuddhaBhumi)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Credovia
+> **Credibility Score Platform**
+
+Full-stack platform with real-time credibility calculations, smooth Framer Motion animations, and Appwrite backend.
+
+```
+User Data → Score Engine → Dashboard
+          → Appwrite DB  → Analytics
+```
+
+![Next.js](https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
+
+[![View](https://img.shields.io/badge/→_View_Project-00C2FF?style=for-the-badge)](https://github.com/GoliPranayKumar/Credovia)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 DSA in Java
+> **Complete Algorithm Library**
+
+Comprehensive implementations of core data structures and algorithms — from basics to advanced graph algorithms.
+
+```
+Arrays → Stacks → Queues → Trees
+      → Graphs → DP → Sorting
+```
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Algorithms-00C2FF?style=flat-square)
+![DSA](https://img.shields.io/badge/-DSA-00FF94?style=flat-square)
+
+[![View](https://img.shields.io/badge/→_View_Project-00C2FF?style=for-the-badge)](https://github.com/GoliPranayKumar/DataStructures)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=GoliPranayKumar&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=03070F&title_color=00C2FF&icon_color=00FF94&text_color=E8F4FF&border_radius=12"/>
-&nbsp;
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoliPranayKumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=03070F&title_color=00C2FF&text_color=E8F4FF&border_radius=12"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoliPranayKumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00FF94&currStreakLabel=00C2FF&sideLabels=00C2FF&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoliPranayKumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=c9d1d9&border_radius=10" width="49%"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoliPranayKumar&theme=tokyonight&hide_border=true&background=03070F&ring=00C2FF&fire=00FF94&currStreakLabel=00C2FF&border_radius=12" alt="GitHub Streak"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GoliPranayKumar&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=00FF94&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GoliPranayKumar&theme=tokyo-night&bg_color=03070F&color=00C2FF&line=00FF94&point=ffffff&area=true&hide_border=true" width="100%"/>
-
----
-
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GoliPranayKumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=GoliPranayKumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
 
-## 🎮 GitHub Games & Fun Stats
+## 🎯 2025 Roadmap
 
-### 🕹️ Skyline — My GitHub City
+```
+LeetCode 500+   ████████░░░░  Grinding Daily
+Advanced DSA    ██████░░░░░░  Graphs & DP Next
+AI SaaS MVP     ████░░░░░░░░  In Design Phase
+Open Source     ██░░░░░░░░░░  First PRs Coming
+```
 
-> A 3D city built from my GitHub contributions — each building = commit activity per week
-
-<div align="center">
-
-[![GitHub Skyline](https://img.shields.io/badge/🏙️_View_My_GitHub_Skyline_3D_City-00C2FF?style=for-the-badge&logoColor=white)](https://skyline.github.com/GoliPranayKumar/2024)
-
-</div>
+| 🎯 Goal | 📊 Status | 🏁 Target |
+|---------|-----------|-----------|
+| LeetCode 500+ | 🔄 In Progress | Dec 2025 |
+| Advanced DSA | 🔄 In Progress | Jun 2025 |
+| AI SaaS Product | 📐 Design Phase | Aug 2025 |
+| Open Source | 🌱 Starting | Ongoing |
 
 ---
 
-### 🐍 Contribution Snake Game
+## 🐍 Contribution Snake
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake eating my commits 🐍" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
-*🐍 A snake eating through all my GitHub contributions*
-
-</div>
-
----
-
-### 📅 Isometric Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=GoliPranayKumar&theme=tokyonight&hide_border=true&bg_color=03070F&title_color=00C2FF&text_color=E8F4FF&border_radius=12" alt="WakaTime Stats"/>
-
-</div>
-
----
-
-### 🎲 Random GitHub Stats I'm Proud Of
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 🔥 Longest Streak | Check live above ↑ |
-| 🌟 Total Stars Earned | Growing daily |
-| 📦 Public Repos | 4+ and counting |
-| 💬 Languages Used | Python, Java, JS, C, HTML, CSS |
-| 🎯 LeetCode Target | 500+ problems |
-| 🏫 University | Vignan Institute of Tech & Science |
-| 📍 Location | Hyderabad, India 🇮🇳 |
-| ⏰ Active Since | 2023 |
-
-</div>
-
----
-
-### ⚡ WakaTime Coding Hours
-
-> *Add WakaTime to VS Code to track your coding time automatically!*
-
-<div align="center">
-
-[![WakaTime](https://img.shields.io/badge/Track_Coding_Time-WakaTime-00C2FF?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@GoliPranayKumar)
-
-</div>
-
----
-
-### 🎰 GitHub Achievements Unlocked
-
-<div align="center">
-
-![Achievement](https://img.shields.io/badge/🦈_Pull_Shark-Unlocked-00C2FF?style=flat-square&labelColor=03070F)
-![Achievement](https://img.shields.io/badge/⚡_YOLO-Unlocked-00FF94?style=flat-square&labelColor=03070F)
-![Achievement](https://img.shields.io/badge/🌌_Galaxy_Brain-In_Progress-FFA116?style=flat-square&labelColor=03070F)
-![Achievement](https://img.shields.io/badge/🌟_Starstruck-In_Progress-FFA116?style=flat-square&labelColor=03070F)
-![Achievement](https://img.shields.io/badge/❤️_Pair_Extraordinaire-Locked-555?style=flat-square&labelColor=03070F)
-
-> *GitHub awards achievements for specific contributions — keep committing to unlock more!*
-
-</div>
-
----
-
-### 📊 Coding Time Breakdown (Estimated)
-
-```
-🐍 Python        ████████████░░░░░░░░   55% — AI/ML Projects
-☕ Java           ████████░░░░░░░░░░░░   30% — DSA Practice
-⚛️  JavaScript    ████░░░░░░░░░░░░░░░░   10% — Frontend Work
-🔧 Other          █░░░░░░░░░░░░░░░░░░░    5% — C, Shell, etc.
-```
-
----
-
-## 🎯 Current Goals
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🎯 Solve **500+ LeetCode** problems | 🔄 In Progress |
-| 🧮 Master **Advanced DSA** (Graphs, DP, Segment Trees) | 🔄 In Progress |
-| 🚀 Build a **production AI SaaS** | 📋 Planned |
-| 🌍 Contribute to **Open Source AI** projects | 📋 Planned |
-
-</div>
-
----
-
-## 💡 Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-</div>
-
----
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-
-🎮 **Strategy Games** &nbsp;|&nbsp; 🎨 **UI/UX Design** &nbsp;|&nbsp; 🎬 **Video Editing** &nbsp;|&nbsp; 🤖 **Exploring AI Tools**
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00C2FF,100:03070F&height=120&section=footer&text=Let's+Build+Something+Awesome+🚀&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+*"First, solve the problem. Then, write the code."*
+
+<br/>
+
+**🎮 Strategy Games &nbsp;&nbsp;|&nbsp;&nbsp; 🎨 UI/UX Design &nbsp;&nbsp;|&nbsp;&nbsp; 🎬 Video Editing &nbsp;&nbsp;|&nbsp;&nbsp; 🤖 Exploring AI**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:00FF94,100:000000&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
