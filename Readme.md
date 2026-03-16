@@ -1,78 +1,124 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Goli Pranay Kumar</title>
+<title>Goli Pranay Kumar | Portfolio</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 
 <style>
 
+/* ---------- GLOBAL ---------- */
+
 *{
 margin:0;
 padding:0;
 box-sizing:border-box;
-font-family:'Poppins',sans-serif;
+font-family:"Poppins",sans-serif;
 }
 
 body{
 background:#0f172a;
 color:white;
-line-height:1.6;
+scroll-behavior:smooth;
 }
 
-header{
+/* ---------- NAVBAR ---------- */
+
+nav{
+position:fixed;
+top:0;
+width:100%;
+display:flex;
+justify-content:space-between;
+padding:15px 10%;
+background:rgba(0,0,0,0.4);
+backdrop-filter:blur(10px);
+z-index:1000;
+}
+
+nav h2{
+color:#38bdf8;
+}
+
+nav ul{
+display:flex;
+gap:25px;
+list-style:none;
+}
+
+nav a{
+text-decoration:none;
+color:white;
+transition:.3s;
+}
+
+nav a:hover{
+color:#38bdf8;
+}
+
+/* ---------- HERO ---------- */
+
+.hero{
 height:100vh;
 display:flex;
 flex-direction:column;
 justify-content:center;
 align-items:center;
 text-align:center;
-background:linear-gradient(120deg,#0ea5e9,#6366f1);
+background:linear-gradient(135deg,#1e3a8a,#06b6d4);
 }
 
-header h1{
-font-size:3rem;
+.hero h1{
+font-size:3.2rem;
 margin-bottom:10px;
-animation:fadeIn 2s ease-in-out;
+animation:fadeIn 1.5s ease;
 }
 
-header h2{
-font-weight:300;
-animation:fadeIn 3s ease-in-out;
+.hero p{
+font-size:1.2rem;
+opacity:.9;
 }
 
 .btn{
-margin-top:20px;
-padding:10px 25px;
+margin-top:25px;
+padding:12px 30px;
+border-radius:30px;
 background:white;
 color:#0f172a;
-border-radius:30px;
 text-decoration:none;
 font-weight:600;
-transition:0.3s;
+transition:.3s;
 }
 
 .btn:hover{
-transform:scale(1.1);
+transform:scale(1.08);
 }
 
+/* ---------- SECTIONS ---------- */
+
 section{
-padding:70px 10%;
+padding:80px 10%;
 }
 
 .section-title{
-font-size:2rem;
-margin-bottom:30px;
 text-align:center;
+font-size:2rem;
+margin-bottom:40px;
 }
 
+/* ---------- ABOUT ---------- */
+
 .about{
-text-align:center;
 max-width:700px;
 margin:auto;
+text-align:center;
+line-height:1.7;
 }
+
+/* ---------- SKILLS ---------- */
 
 .skills{
 display:grid;
@@ -85,13 +131,15 @@ background:#1e293b;
 padding:20px;
 border-radius:10px;
 text-align:center;
-transition:0.3s;
+transition:.3s;
 }
 
 .skill:hover{
-transform:translateY(-10px);
+transform:translateY(-8px);
 background:#334155;
 }
+
+/* ---------- PROJECTS ---------- */
 
 .projects{
 display:grid;
@@ -99,75 +147,127 @@ grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
 gap:25px;
 }
 
-.project-card{
-background:#1e293b;
-padding:25px;
+.project{
+background:rgba(255,255,255,0.05);
+border:1px solid rgba(255,255,255,0.1);
 border-radius:12px;
-transition:0.3s;
-position:relative;
-overflow:hidden;
+padding:25px;
+transition:.3s;
+backdrop-filter:blur(10px);
 }
 
-.project-card:hover{
+.project:hover{
 transform:translateY(-10px);
+border-color:#38bdf8;
 }
 
-.project-card h3{
+.project h3{
 margin-bottom:10px;
 }
 
-.project-card a{
+.project p{
+opacity:.85;
+}
+
+.project a{
 display:inline-block;
 margin-top:10px;
 color:#38bdf8;
 text-decoration:none;
 }
 
+/* ---------- CONTACT ---------- */
+
+.contact{
+text-align:center;
+}
+
+.contact a{
+display:inline-block;
+margin:10px;
+padding:10px 20px;
+border-radius:25px;
+background:#38bdf8;
+color:#0f172a;
+text-decoration:none;
+font-weight:600;
+}
+
+/* ---------- FOOTER ---------- */
+
 footer{
 text-align:center;
-padding:30px;
+padding:25px;
 background:#020617;
-margin-top:50px;
 }
 
-.social{
-margin-top:15px;
-}
-
-.social a{
-margin:0 10px;
-color:white;
-font-size:20px;
-text-decoration:none;
-}
+/* ---------- ANIMATIONS ---------- */
 
 @keyframes fadeIn{
-from{opacity:0; transform:translateY(20px);}
-to{opacity:1; transform:translateY(0);}
+from{
+opacity:0;
+transform:translateY(20px);
+}
+to{
+opacity:1;
+transform:translateY(0);
+}
 }
 
 </style>
+
 </head>
 
 <body>
 
-<header>
-<h1>👋 Goli Pranay Kumar</h1>
-<h2>AI & Data Science Student | Aspiring AI Engineer</h2>
-<a href="#projects" class="btn">View My Work</a>
-</header>
+<!-- NAVBAR -->
 
-<section>
-<h2 class="section-title">About Me</h2>
-<div class="about">
-<p>
-B.Tech student in Artificial Intelligence and Data Science at Vignan Institute of Technology and Science.
-Interested in AI, Data Structures, and building real-world software systems.
-</p>
-</div>
+<nav>
+<h2>Pranay</h2>
+<ul>
+<li><a href="#about">About</a></li>
+<li><a href="#skills">Skills</a></li>
+<li><a href="#projects">Projects</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+
+<!-- HERO -->
+
+<section class="hero">
+
+<h1>👋 Goli Pranay Kumar</h1>
+<p>AI & Data Science Student | Aspiring AI Engineer</p>
+
+<a href="#projects" class="btn">Explore My Work</a>
+
 </section>
 
-<section>
+<!-- ABOUT -->
+
+<section id="about">
+
+<h2 class="section-title">About Me</h2>
+
+<div class="about">
+
+<p>
+I am a B.Tech student in Artificial Intelligence and Data Science at 
+Vignan Institute of Technology and Science (2023-2027).
+
+I enjoy building AI systems, solving algorithmic problems, and creating
+modern web applications.
+
+</p>
+
+</div>
+
+</section>
+
+<!-- SKILLS -->
+
+<section id="skills">
+
 <h2 class="section-title">Tech Stack</h2>
 
 <div class="skills">
@@ -182,60 +282,64 @@ Interested in AI, Data Structures, and building real-world software systems.
 <div class="skill">MySQL</div>
 
 </div>
+
 </section>
 
+<!-- PROJECTS -->
+
 <section id="projects">
+
 <h2 class="section-title">Projects</h2>
 
 <div class="projects">
 
-<div class="project-card">
+<div class="project">
 <h3>MediScannerAI</h3>
-<p>AI powered system that analyzes chest X-rays using deep learning.</p>
+<p>Deep learning based system that analyzes chest X-rays for abnormalities.</p>
 <a href="https://github.com/GoliPranayKumar/MediScannerAi">View Project</a>
 </div>
 
-<div class="project-card">
+<div class="project">
 <h3>Yuddha Bhumi</h3>
-<p>Strategy battlefield simulation game with tactical gameplay.</p>
+<p>Strategy battlefield simulation game with tactical gameplay mechanics.</p>
 <a href="https://github.com/GoliPranayKumar/YuddhaBhumi">View Project</a>
 </div>
 
-<div class="project-card">
+<div class="project">
 <h3>Credovia</h3>
-<p>Full stack credibility scoring system built with Next.js and Appwrite.</p>
+<p>Credibility scoring system built using Next.js and Appwrite backend.</p>
 <a href="https://github.com/GoliPranayKumar/Credovia">View Project</a>
 </div>
 
-<div class="project-card">
+<div class="project">
 <h3>Java Data Structures</h3>
-<p>Implementation of stacks, queues, trees and graph algorithms.</p>
+<p>Implementation of stacks, queues, trees, and graph algorithms in Java.</p>
 <a href="https://github.com/GoliPranayKumar/DataStructures">View Project</a>
 </div>
 
 </div>
+
 </section>
 
-<section>
-<h2 class="section-title">Goals</h2>
+<!-- CONTACT -->
 
-<div class="about">
-<p>
-Solve 500+ LeetCode problems, build AI-powered SaaS applications,
-and contribute to open source projects.
-</p>
+<section id="contact">
+
+<h2 class="section-title">Connect With Me</h2>
+
+<div class="contact">
+
+<a href="https://github.com/GoliPranayKumar">GitHub</a> <a href="https://www.linkedin.com/in/golipranaykumar/">LinkedIn</a> <a href="mailto:golipranaykumar@gmail.com">Email</a>
+
 </div>
 
 </section>
+
+<!-- FOOTER -->
 
 <footer>
 
 <p>© 2026 Goli Pranay Kumar</p>
-
-<div class="social">
-<a href="https://github.com/GoliPranayKumar">GitHub</a>
-<a href="https://www.linkedin.com/in/golipranaykumar/">LinkedIn</a>
-</div>
 
 </footer>
 
