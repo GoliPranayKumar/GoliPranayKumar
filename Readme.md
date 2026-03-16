@@ -1,122 +1,214 @@
-<!-- HEADER -->
-<!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm <span style="color:#00C2FF;">Goli Pranay Kumar</span></h1>
-<h3 align="center">B.Tech AI & Data Science Student | Aspiring AI Engineer | DSA & Programming Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=700&color=00E1FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Goli+Pranay+Kumar!;AI+%26+Data+Science+Student;Developer+%7C+Tech+Explorer+%7C+DSA+Enthusiast" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Data+Structures+%26+Algorithms;Python+%7C+Java+%7C+C+Programming;Tech+Explorer+%7C+Problem+Solver" />
-</p>
+<!-- ANIMATED GIF BANNER — upload banner.gif to your profile repo and use this path -->
+<img src="./banner.gif" width="100%" alt="Goli Pranay Kumar Banner"/>
 
----
+<!-- BADGES -->
+<a href="https://www.linkedin.com/in/golipranaykumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
+&nbsp;
+<a href="https://leetcode.com/u/golipranaykumar/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+&nbsp;
+<a href="mailto:golipranaykumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=GoliPranayKumar&style=flat-square&color=00C2FF&label=views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/GoliPranayKumar?style=flat-square&color=00FF94&label=followers"/>
 
-## 🧑‍💻 About Me
-
-🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at  
-**Vignan Institute of Technology and Science, Hyderabad (2023–2027)**  
-🌟 Interested in **DSA, AI, Python Development & Full-Stack Projects**  
-📚 Currently learning **C Programming, Python, Java DSA & Web Tech**  
-🎨 Also exploring **image/video editing and UI design**  
-🚀 Building projects like **MediScannerAi** (Deep Learning X-Ray Analyzer)
+</div>
 
 ---
 
-## 🔗 Connect With Me
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=GoliPranayKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00FF94&text_color=c9d1d9&border_radius=10"/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/golipranaykumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:golipranaykumar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/golipranaykumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://github.com/GoliPranayKumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 🧑‍💻 `whoami`
 
----
+```yaml
+name:       Goli Pranay Kumar
+role:       AI & Data Science Student
+college:    Vignan Institute of Technology & Science
+batch:      2023 – 2027
+location:   Hyderabad, India 🇮🇳
 
-## ⚒️ Tech Stack
+passions:
+  - Artificial Intelligence & Deep Learning
+  - Data Structures & Algorithms
+  - Full Stack Web Development
+  - Building things that matter
 
-### 🌐 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
-</p>
+currently:  Shipping AI + Web Applications 🚀
+open_to:    Collaborations & Internships ✅
+```
 
-### 🧰 **Tools & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,opencv,vscode,linux" />
-</p>
-
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+<br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Arsenal
 
-### 🔹 **MediScannerAi – Deep Learning X-Ray Analyzer**
-A full-stack web app that analyzes chest X-rays using DenseNet121 & MobileNetV2 models.  
-➡️ *AI + Web Integration Project*
+<table>
+<tr>
+<td valign="top" width="33%">
 
-🔗 https://github.com/GoliPranayKumar/MediScannerAi
+**🐍 Languages**
 
----
+![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-★★★★☆-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-★★★★☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-★★★☆☆-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-★★★★☆-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### 🔹 **Data Structures (Java)**
-Clean implementation of classic DSA topics including Arrays, Stack, Queue, Deque, PriorityQueue, HashMap & more.  
-➡️ *Strengthening Java + DSA foundations*
+</td>
+<td valign="top" width="33%">
 
-🔗 https://github.com/GoliPranayKumar/DataStructures
+**🧠 AI / ML**
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-★★★★☆-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-★★★☆☆-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-★★★★☆-27338e?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-★★★★☆-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-★★★☆☆-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-## 📈 GitHub Stats & Activity
+</td>
+<td valign="top" width="33%">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GoliPranayKumar&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoliPranayKumar&layout=compact&theme=tokyonight" height="170"/>
-</p>
+**🌐 Web / Tools**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoliPranayKumar&theme=tokyonight" />
-</p>
+![React](https://img.shields.io/badge/React-★★★★☆-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-★★★☆☆-white?style=flat-square&logo=nextdotjs&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-★★★☆☆-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-## 🏆 Achievements & Certifications
-
-✔️ Learn and Master C Programming for Absolute Beginners  
-✔️ Computer Networks & Internet Security  
-✔️ Career Essentials in Generative AI – *Microsoft + LinkedIn*  
-✔️ Data Structures & Algorithms using Java  
-✔️ Python for Data Science  
-
----
-
-# 🌌 **About Me**
-## 🎯 Current Goals
-
-```diff
-+ 🚀 AI & Data Science Undergraduate (2023–2027)
-+ 💡 Passionate about Python, Java, C, DSA & AI Models
-+ 🧠 Love building ML/AI + Full-stack projects
-+ 🎨 Also into video editing, design & creative tech
-+ 📈 Aiming to master problem solving & open-source
-- Master **DSA in Java**
-- Improve at **problem solving (LeetCode)**
-- Build more **AI-powered full-stack applications**
-- Contribute to **open-source repositories**
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+GitHub+profile!;Feel+free+to+connect+or+collaborate+with+me+%F0%9F%9A%80" />
-</p>
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 MediScannerAI
+> **Deep Learning X-Ray Analyzer**
+
+AI system detecting abnormalities in Chest X-rays using convolutional neural networks with a React dashboard.
+
+```
+X-Ray → OpenCV Preprocess → CNN Model
+      → Abnormality Score → React UI
+```
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+[![View](https://img.shields.io/badge/→_View_Project-00C2FF?style=for-the-badge)](https://github.com/GoliPranayKumar/MediScannerAi)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ Yuddha Bhumi
+> **Strategy Battle Simulation**
+
+Real-time battlefield simulation with AI-driven opponents and strategic decision trees.
+
+```
+Player Input → Game Engine → AI Logic
+             → Battle State → UI Render
+```
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![View](https://img.shields.io/badge/→_View_Project-00C2FF?style=for-the-badge)](https://github.com/GoliPranayKumar/YuddhaBhumi)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Credovia
+> **Credibility Score Platform**
+
+Full-stack platform with real-time credibility calculations and smooth animations.
+
+```
+User Data → Score Engine → Dashboard
+          → Appwrite DB  → Analytics
+```
+
+![Next.js](https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
+
+[![View](https://img.shields.io/badge/→_View_Project-00C2FF?style=for-the-badge)](https://github.com/GoliPranayKumar/Credovia)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 DSA in Java
+> **Complete Algorithm Library**
+
+Arrays, Stacks, Queues, Trees, Graphs, DP and more.
+
+```
+Arrays → Stacks → Queues → Trees
+      → Graphs → DP → Sorting
+```
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Algorithms-00C2FF?style=flat-square)
+![DSA](https://img.shields.io/badge/-DSA-00FF94?style=flat-square)
+
+[![View](https://img.shields.io/badge/→_View_Project-00C2FF?style=for-the-badge)](https://github.com/GoliPranayKumar/DataStructures)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GoliPranayKumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00FF94&currStreakLabel=00C2FF&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoliPranayKumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=c9d1d9&border_radius=10" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GoliPranayKumar&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=00FF94&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GoliPranayKumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+</div>
+
+---
+
+## 🎯 2025 Roadmap
+
+```
+LeetCode 500+   ████████░░░░  Grinding Daily
+Advanced DSA    ██████░░░░░░  Graphs & DP Next
+AI SaaS MVP     ████░░░░░░░░  In Design Phase
+Open Source     ██░░░░░░░░░░  First PRs Coming
+```
+
+---
+
+<div align="center">
+
+**🎮 Strategy Games &nbsp;·&nbsp; 🎨 UI/UX Design &nbsp;·&nbsp; 🎬 Video Editing &nbsp;·&nbsp; 🤖 Exploring AI**
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
